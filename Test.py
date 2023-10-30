@@ -69,6 +69,7 @@ def main_3():
     print(to_normal_str["camel"]("myNameIsManish"))
     arr = ['amu', 'bot']
     print(arr[3])
+    print(arr[2])
 
 
 
